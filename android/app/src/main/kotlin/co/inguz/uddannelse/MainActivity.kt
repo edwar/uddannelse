@@ -1,4 +1,4 @@
-package co.inguz.uddannelse.uddannelse
+package co.inguz.uddannelse
 
 import io.flutter.embedding.android.FlutterActivity
 
